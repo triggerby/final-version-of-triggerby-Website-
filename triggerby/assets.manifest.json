@@ -1,0 +1,31 @@
+{
+  "machines": [
+    {
+      "slug": "ad-budget-optimizer",
+      "title": "Ad Budget Optimizer",
+      "desc": "Kills wasteful spend while you read this. Reallocates to winning products automatically. Every second of delay costs you sales.",
+      "card": "/images/machines/ad-budget-optimizer/card.svg",
+      "thumb": "/images/machines/ad-budget-optimizer/thumb.svg",
+      "blur": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMzAwJyBoZWlnaHQ9JzMwMCcgdmlld0JveD0nMCAwIDMwMCAzMDAnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHJlY3Qgd2lkdGg9JzMwMCcgaGVpZ2h0PSczMDAnIGZpbGw9JyMwNTk2NjknLz48L3N2Zz4=",
+      "alt": "Neon green graph lines reallocating budget towards a bright product tile."
+    },
+    {
+      "slug": "cart-recovery-engine",
+      "title": "Cart Recovery Engine",
+      "desc": "Right now, 70% of your visitors are leaving empty-handed. This captures them all, converts them while you sleep.",
+      "card": "/images/machines/cart-recovery-engine/card.svg",
+      "thumb": "/images/machines/cart-recovery-engine/thumb.svg",
+      "blur": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMzAwJyBoZWlnaHQ9JzMwMCcgdmlld0JveD0nMCAwIDMwMCAzMDAnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHJlY3Qgd2lkdGg9JzMwMCcgaGVpZ2h0PSczMDAnIGZpbGw9JyMxMGI5ODEnLz48L3N2Zz4=",
+      "alt": "Emerald magnet pulling silver shopping carts toward a glowing portal."
+    },
+    {
+      "slug": "customer-support-ai",
+      "title": "Customer Support AI",
+      "desc": "Auto-resolves repetitive tickets instantly, escalates with perfect context, and never sleeps.",
+      "card": "/images/machines/customer-support-ai/card.svg",
+      "thumb": "/images/machines/customer-support-ai/thumb.svg",
+      "blur": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMzAwJyBoZWlnaHQ9JzMwMCcgdmlld0JveD0nMCAwIDMwMCAzMDAnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PHJlY3Qgd2lkdGg9JzMwMCcgaGVpZ2h0PSczMDAnIGZpbGw9JyMzNGQzOTknLz48L3N2Zz4=",
+      "alt": "Mint glass headset with chat bubbles flowing into a solved ticket icon."
+    }
+  ]
+}
